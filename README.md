@@ -3,7 +3,7 @@ Midterm project for image processing course.
 - Recognize numbers on images.
 Implemented in Python with OpenCV.
 
-Task1: 
+processing1: 
 ## 📖 Introduction
 This project demonstrates the use of **image processing techniques** with OpenCV to detect and localize digits in images or videos.  
 By applying preprocessing steps such as light balancing, noise reduction, and contour detection, the system can highlight digit regions with bounding boxes.  
@@ -30,7 +30,7 @@ https://drive.google.com/drive/folders/1vITQcme1CGGdNr8iNqUnUENyMBI7n7Tw?usp=dri
 - Show that even without **labeled data**, it is possible to detect and segment objects (digits) from images or videos.  
 
 
-Task 2:
+processing2:
 ## 📖 Introduction
 This project performs **digit detection in images** using image processing techniques with OpenCV.  
 The goal is to detect digits, draw bounding boxes around them, and export the results as images or videos.
